@@ -7,8 +7,8 @@
 ![Adminer](https://img.shields.io/badge/Adminer-4.8.1-228B22?style=for-the-badge&logo=adminer)
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-Apache%202.0-FF8C00?style=for-the-badge)
-![Build Status](https://img.shields.io/github/actions/workflow/status/manuelalejandrojimeneztorres/coretech-solutions-custom-odoo-module/backend-ci.yml?style=for-the-badge)
-![Coverage](https://img.shields.io/codecov/c/github/manuelalejandrojimeneztorres/coretech-solutions-custom-odoo-module?style=for-the-badge)
+![Build Status](https://img.shields.io/github/actions/workflow/status/majimtor/coretech-solutions-custom-odoo-module/backend-ci.yml?style=for-the-badge)
+![Coverage](https://img.shields.io/codecov/c/github/majimtor/coretech-solutions-custom-odoo-module?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20date-brightgreen?style=for-the-badge)
 
 ## Description
@@ -73,7 +73,7 @@ Ensure the following tools are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/manuelalejandrojimeneztorres/coretech-solutions-custom-odoo-module.git
+   git clone https://github.com/majimtor/coretech-solutions-custom-odoo-module.git
    ```
 
 2. Navigate to the project directory:
